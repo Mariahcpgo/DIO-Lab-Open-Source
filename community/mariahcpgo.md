@@ -30,3 +30,4 @@
 <a href="https://www.dio.me/users/mariahcpgo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Dio-30A3DC?style=for-the-badge" target="_blank"></a>
 <a href="https://medium.com/@newslettergreendigitalskillspt/o-futuro-do-design-digital-%C3%A9-sustent%C3%A1vel-c1a3f896fcda" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
+
